@@ -1,0 +1,23 @@
+{D:/Study/Computer Architecture/9_Project/MIPS_Processor/MIPSProcessor.v} {0 {vlog -work work -stats=none {D:/Study/Computer Architecture/9_Project/MIPS_Processor/MIPSProcessor.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module InstructionMemory
+-- Compiling module DataMemory
+-- Compiling module SignExtend
+-- Compiling module Mux2to1
+-- Compiling module FlipFlop
+-- Compiling module RegisterFile
+-- Compiling module Add
+-- Compiling module ALUControl
+-- Compiling module ALU
+-- Compiling module Datapath
+-- Compiling module ControlUnit
+-- Compiling module MIPSProcessor
+-- Compiling module MIPSProcessor_tb
+** Error: (vlog-13027) D:/Study/Computer Architecture/9_Project/MIPS_Processor/MIPSProcessor.v(403): near "i": Syntax error. 'for' loop variable declaration only allowed in SystemVerilog.
+** Error: D:/Study/Computer Architecture/9_Project/MIPS_Processor/MIPSProcessor.v(403): (vlog-2730) Undefined variable: 'i'.
+** Error: (vlog-13069) D:/Study/Computer Architecture/9_Project/MIPS_Processor/MIPSProcessor.v(403): near ")": syntax error, unexpected ')', expecting ';'.
+** Error: D:/Study/Computer Architecture/9_Project/MIPS_Processor/MIPSProcessor.v(408): (vlog-13161) unexpected '$display'
+** Error: (vlog-13069) D:/Study/Computer Architecture/9_Project/MIPS_Processor/MIPSProcessor.v(409): near "integer": syntax error, unexpected integer, expecting IDENTIFIER or genvar.
+** Error: D:/Study/Computer Architecture/9_Project/MIPS_Processor/MIPSProcessor.v(409): (vlog-13205) Syntax error found in the scope following 'i'. Is there a missing '::'?
+
+} {16.0 22.0} {}}

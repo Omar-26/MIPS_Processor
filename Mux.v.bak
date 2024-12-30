@@ -1,0 +1,17 @@
+module Mux #(
+    parameter WIDTH = 32,
+    parameter N = 2
+)(
+    input [N-1:0] sel,
+    input [N*WIDTH-1:0] in,
+    output reg [WIDTH-1:0] out
+);
+    always @(*) begin
+        case (sel)
+            1: out = in[WIDTH-1:0];
+            2: out = in[2*WIDTH-1:WIDTH];
+            default: out = {WIDTH{1'b0}}; // Default case for safety
+        endcase
+    end
+endmodule
+

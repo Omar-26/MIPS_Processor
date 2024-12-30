@@ -1,0 +1,357 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/oashr/Downloads/ModelSimTest
+vadd
+!i10b 1
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!s100 VVY_5KMOKJW`ZjMUK_6?]0
+I@ngNTJRn8_;oeB_X]neV[0
+Z1 dD:/Study/Computer Architecture/9_Project/MIPS_Processor
+w1733962054
+8D:/Study/Computer Architecture/9_Project/MIPS_Processor/Add.v
+FD:/Study/Computer Architecture/9_Project/MIPS_Processor/Add.v
+L0 1
+Z2 OV;L;10.5b;63
+!s108 1733966260.000000
+!s107 D:/Study/Computer Architecture/9_Project/MIPS_Processor/Add.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Study/Computer Architecture/9_Project/MIPS_Processor/Add.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vAdd
+Z5 !s110 1734141512
+!i10b 1
+!s100 S:6Y<iz9QFk3Q3PR35A`P1
+IMNeX:oXHaf7Elbz8cU52e2
+R0
+R1
+Z6 w1734141500
+Z7 8D:/Study/Computer Architecture/9_Project/MIPS_Processor/MIPSProcessor.v
+Z8 FD:/Study/Computer Architecture/9_Project/MIPS_Processor/MIPSProcessor.v
+L0 132
+R2
+r1
+!s85 0
+31
+Z9 !s108 1734141512.000000
+Z10 !s107 D:/Study/Computer Architecture/9_Project/MIPS_Processor/MIPSProcessor.v|
+Z11 !s90 -reportprogress|300|-work|work|-stats=none|D:/Study/Computer Architecture/9_Project/MIPS_Processor/MIPSProcessor.v|
+!i113 1
+R3
+R4
+n@add
+vALU
+R5
+!i10b 1
+!s100 dnjF8o<kWL6RMLiOLQaUL0
+I2DZQVdB>C0VL4aRJBHR=b1
+R0
+R1
+R6
+R7
+R8
+L0 164
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R3
+R4
+n@a@l@u
+vALUControl
+R5
+!i10b 1
+!s100 B=EEmZ9J7HjRm1zn04<ff1
+I8Ad^XOCNH=IM60:f[Wc?F3
+R0
+R1
+R6
+R7
+R8
+L0 140
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R3
+R4
+n@a@l@u@control
+vControlUnit
+R5
+!i10b 1
+!s100 Ia2Q[d<]mJDYaDeNUH3YP2
+I7U56liCoOhR9h50QYj48L3
+R0
+R1
+R6
+R7
+R8
+L0 260
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R3
+R4
+n@control@unit
+vDataMemory
+R5
+!i10b 1
+!s100 HE61mJ@^5j;c2UioXCmY@2
+I0W`dAW87A^D?7n@[97@`R2
+R0
+R1
+R6
+R7
+R8
+L0 33
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R3
+R4
+n@data@memory
+vDatapath
+R5
+!i10b 1
+!s100 49[]8Q[;0R1kO65MDnT<U0
+IC>Pg>W;ClIk[3cX;_:L<m1
+R0
+R1
+R6
+R7
+R8
+L0 185
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R3
+R4
+n@datapath
+vFlipFlop
+R5
+!i10b 1
+!s100 MVC^ES[mll4OBg2?iEO@j1
+I_96AQnVnli^Slf;;KEMK?3
+R0
+R1
+R6
+R7
+R8
+L0 85
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R3
+R4
+n@flip@flop
+vInstructionMemory
+R5
+!i10b 1
+!s100 @g8m6GE[65HZPZe4[Qolz2
+IL0^?z[7S3E456zIaL6zVf1
+R0
+R1
+R6
+R7
+R8
+L0 1
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R3
+R4
+n@instruction@memory
+vInstructionMemory_tb
+!i10b 1
+R0
+r1
+!s85 0
+31
+!s100 OYYiHmHRI^3c9F;:5AY;80
+I50KlaQ7BI_Scfbj1mSJ421
+R1
+w1733967486
+8D:/Study/Computer Architecture/9_Project/MIPS_Processor/InstructionMemory.v
+FD:/Study/Computer Architecture/9_Project/MIPS_Processor/InstructionMemory.v
+L0 15
+R2
+!s108 1733967499.000000
+!s107 D:/Study/Computer Architecture/9_Project/MIPS_Processor/InstructionMemory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Study/Computer Architecture/9_Project/MIPS_Processor/InstructionMemory.v|
+!i113 1
+R3
+R4
+n@instruction@memory_tb
+vMIPSProcessor
+R5
+!i10b 1
+!s100 S[L<:LSPY4PnFV29Dk1z93
+I5eIg;chWBU_EOBLF[><S:3
+R0
+R1
+R6
+R7
+R8
+L0 345
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R3
+R4
+n@m@i@p@s@processor
+vMIPSProcessor_tb
+!i10b 1
+R0
+r1
+!s85 0
+31
+!s100 OMLT2BWb=kcK[]]nEm_gI2
+Iz6[`ke^0RV?OOlkoMSPE=0
+R1
+w1734135961
+R7
+R8
+L0 344
+R2
+!s108 1734136193.000000
+R10
+R11
+!i113 1
+R3
+R4
+n@m@i@p@s@processor_tb
+vMux
+!i10b 1
+R0
+r1
+!s85 0
+31
+!s100 1V86>YoJ>YO8SBkZECYg;3
+IJ8oQ>SQaHG:XgHG7>GRda3
+R1
+w1733939332
+8D:/Study/Computer Architecture/9_Project/MIPS_Processor/Mux.v
+FD:/Study/Computer Architecture/9_Project/MIPS_Processor/Mux.v
+L0 1
+R2
+!s108 1733939333.000000
+!s107 D:/Study/Computer Architecture/9_Project/MIPS_Processor/Mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Study/Computer Architecture/9_Project/MIPS_Processor/Mux.v|
+!i113 1
+R3
+R4
+n@mux
+vMux2to1
+R5
+!i10b 1
+!s100 >9:?BjNL=cL[EWIecM2a]1
+IiM=5@[11T45mnO9<hIe601
+R0
+R1
+R6
+R7
+R8
+L0 68
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R3
+R4
+n@mux2to1
+vRegisterFile
+R5
+!i10b 1
+!s100 QGB`5hfb>jkbK`h`69M@Z3
+I;T]30F1ne[S=;j_eRlD]G1
+R0
+R1
+R6
+R7
+R8
+L0 101
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R3
+R4
+n@register@file
+vSignExtend
+R5
+!i10b 1
+!s100 3lFV456PEj0RCBf9VX9D<3
+IfEo5SLQ`aI3B;CLlXJ4YP2
+R0
+R1
+R6
+R7
+R8
+L0 62
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R3
+R4
+n@sign@extend
